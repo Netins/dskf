@@ -1,4 +1,7 @@
 <svg width="313" height="958" viewBox="0 0 313 958" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400;1,700&amp;display=swap');
+  </style>
 <rect x="0.75" y="0.75" width="311.5" height="956.5" fill="#030229" fill-opacity="0.2"/>
 <rect x="0.75" y="0.75" width="311.5" height="956.5" stroke="#00B36B" stroke-width="1.5"/>
 <rect width="290" height="28" transform="translate(11.5 11.5)" fill="#030229" fill-opacity="0.301961"/>
